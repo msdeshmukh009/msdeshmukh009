@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - ⚛️ Exploring **ReactJs**
-- 👨‍💻 All of my projects are available at **[MaheshDeshmukh](https://maheshdeshmukh.netlify.app/)**
 - 📝 I do write articles on **[msdeshmukh.hashnode.dev](https://msdeshmukh.hashnode.dev/)**
 
 <p align="left">
