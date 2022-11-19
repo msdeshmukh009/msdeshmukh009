@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Deshmukh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msdeshmukh009&label=Profile%20views&color=blueviolet&style=flat-square" alt="Mahesh Deshmukh" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 - ⚛️ Exploring **ReactJs**
 - 📝 I do write articles on **[msdeshmukh.hashnode.dev](https://msdeshmukh.hashnode.dev/)**
 
